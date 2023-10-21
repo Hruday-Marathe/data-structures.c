@@ -1,4 +1,5 @@
 # data-structures.c
+// queue using array that's the programme for array 
 #include<stdio.h>
 #define n 5
 int main()
